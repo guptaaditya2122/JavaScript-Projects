@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="todo-list.css">
+    <title>Todo-list</title>
+</head>
+
+<body>
+    
+    <section class="section" id="board">
+        <h2>Todo list with Drag & drop</h2>
+
+        <div class="row">
+            <div class="col-sm column dropzone">
+                <h3>Backlog</h3>
+                <input type="text" id="backlog" placeholder="Enter todo item" />
+                <button id="addBacklog" disabled='true'>Add </button>
+                <ul id="backlogItems">
+
+                </ul>
+            </div>
+            <div class=" col-sm column dropzone">
+                <h3>Todo</h3>
+
+            </div>
+            <div class="col-sm column dropzone">
+                <h3>In Progress</h3>
+
+            </div>
+            <div class="col-sm column dropzone">
+                <h3>Completed</h3>
+
+            </div>
+        </div>
+    </section>
+
+
+    <script type="text/javascript" src="./todo-list.js"></script>
+
+
+</body>
+
+</html>
