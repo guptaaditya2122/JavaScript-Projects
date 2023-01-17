@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="./foodOrdering.js" defer></script>
+    <link rel="stylesheet" href="foodOrdering.css">
+    <title>Food Ordering</title>
+</head>
+
+<body>
+    <main>
+        <header class="container center">
+            <h2>Food Ordering App</h2>
+        </header>
+
+        <section class="container center">
+            <label for="input">Search Restaurent</label>
+            <input type="text" id="input" placeholder="Search by Name " />
+
+            <label for="sortBy">Sort By</label>
+
+            <select name="sortBy" id="sortBy">
+                <option value=" ">Sort by</option>
+                <option value="rating">Rating</option>
+                <option value="eta">ETA</option>
+            </select>
+
+            <label for="filterBy">Filter By</label>
+
+            <select name="filterBy" id="filterBy">
+                <option value="">Filter By</option>
+                <option value="Fast Food">Fast Food</option>
+                <option value="American">American</option>
+                <option value="North Indian">North Indian</option>
+                <option value="Continental">Continental</option>
+
+            </select>
+        </section>
+    
+        <div class="restaurents" id="cards-container"></div>
+        <div id="error-message"></div>
+
+    </main>
+</body>
+
+</html>

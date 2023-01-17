@@ -1,0 +1,30 @@
+.center{
+    text-align: center;
+    margin-bottom: 24px;
+    
+}
+
+.display{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrap-div{
+    border: 1px solid black;
+    width: 300px;
+    margin: 16px;
+    text-align: center;
+}
+
+.restaurents{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 16px;
+}
+
+.tag{
+    margin: 10px;
+    background-color: bisque;
+    border-radius: 16%;
+}

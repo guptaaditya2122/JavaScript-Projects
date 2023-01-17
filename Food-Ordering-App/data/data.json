@@ -1,0 +1,138 @@
+[
+    {
+      "name": "Subway(MCF)",
+      "id": 20423,
+      "location": "udyog vihar",
+      "rating": 4.2,
+      "eta": 25,
+      "tags": ["American", "Fast Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Prince Ki Rasoi",
+      "id": 27213,
+      "location": "Ramada Hotel, Huda City",
+      "rating": 3.8,
+      "eta": 30,
+      "tags": ["North Indian", "Chinese", "Mughlai" ],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Aggarwal Sweets",
+      "id": 52778,
+      "location": "Near Jain Dharamshala, Huda City",
+      "rating": 3.4,
+      "eta": 25,
+      "tags": ["North Indian", "Chinese", "Sweets"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Rasoi",
+      "id": 13018,
+      "location": "Near Hanuman Mandir, Sector-14",
+      "rating": 3.9,
+      "eta": 50,
+      "tags": ["Indian", "Chinese", "North Indian"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Fork with Sticks",
+      "id": 1015,
+      "location": "DLF Phase 4, New DLF Phase 4",
+      "rating": 4.0,
+      "eta": 44,
+      "tags": ["Chinese", "Fast Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "South Store",
+      "id": 23893,
+      "location": "sector 14 Market, Sector-14",
+      "rating": 4.1,
+      "eta": 53,
+      "tags": ["American", "South Indian"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Chinese Corner",
+      "id": 30361,
+      "location": "Sushant Lok, DLF Phase 4",
+      "rating": 4.1,
+      "eta": 47,
+      "tags": ["Chinese", "Thai"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Sandburg Shakes",
+      "id": 63660,
+      "location": "Sushant Lok, New DLF Phase 4",
+      "rating": 4.4,
+      "eta": 51,
+      "tags": ["Cafe", "Italian", "Healthy Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Royal Spice",
+      "id": 29123,
+      "location": "Near Unitech Cyber Park, sohna road",
+      "rating": 4.1,
+      "eta": 31,
+      "tags": ["Indian", "Chinese", "Continental", "Snacks"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Madurai Meenakshi",
+      "id": 26761,
+      "location": "Sector 14 Market, Sector-14",
+      "rating": 4.2,
+      "eta": 25,
+      "tags": ["American", "South Indian"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Koolchas",
+      "id": 68159,
+      "location": "Dlf Phase 1, DLF Phase 4",
+      "rating": 4.3,
+      "eta": 53,
+      "tags": ["North Indian", "Fast Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Punjabi Chaap",
+      "id": 49213,
+      "location": "Sector 14, Sector-14",
+      "rating": 3.8,
+      "eta": 52,
+      "tags": ["North Indian", "Fast Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Burger BC",
+      "id": 21340,
+      "location": "Near Gold Souk Mall, DLF Phase 4",
+      "rating": 4.1,
+      "eta": 57,
+      "tags": ["Fast Food","Continental"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "Mucchad's SamosaZz",
+      "id": 17281,
+      "location": "Maruti Vihar, DLF Phase 4",
+      "rating": 4.1,
+      "eta": 43,
+      "tags": ["Mughlai", "North Indian", "Street Food", "Fast Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    },
+    {
+      "name": "The Burger Homes",
+      "id": 63913,
+      "location": "Huda City, Huda City",
+      "rating": 3.9,
+      "eta": 45,
+      "tags": ["North Indian", "Fast Food"],
+      "img": "https://www.pngarts.com/files/9/Vector-Restaurant-PNG-Background-Image.png"
+    }
+
+  ]
